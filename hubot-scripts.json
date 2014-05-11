@@ -10,5 +10,6 @@
 	"github-pull-request-notifier.coffee",
 	"github-pulls.coffee",
 	"github-search.coffee",
-	"github-status.coffee"
+	"github-status.coffee",
+	"corgime.coffee"
 ]
