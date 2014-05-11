@@ -11,5 +11,6 @@
 	"github-pulls.coffee",
 	"github-search.coffee",
 	"github-status.coffee",
-	"corgime.coffee"
+	"corgime.coffee",
+	"brb.coffee"
 ]
