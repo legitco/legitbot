@@ -21,10 +21,10 @@
 
 url = require('url')
 querystring = require('querystring')
-gitio = require('gitio')
+gitio = require('gitio2')
 
 module.exports = (robot) ->
-  
+
   robot.respond /travis me (.*)/i, (msg) ->
     project = escape(msg.match[1])
     msg.http("https://api.travis-ci.org/repos/#{project}")
