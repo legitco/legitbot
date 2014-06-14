@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n legitbot
+web: bin/hubot -a hipchat

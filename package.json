@@ -25,6 +25,7 @@
     "githubot": "^1.0.0-beta2",
     "gitio2": "^2.0.0",
     "hubot": ">= 2.6.0 < 3.0.0",
+    "hubot-hipchat": "^2.6.4-2",
     "hubot-irc": "^0.2.2",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "hubot-tell": "^1.1.0",
